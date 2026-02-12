@@ -1,0 +1,169 @@
+# Nigerian Microfinance Portfolio Risk Analysis
+
+**A comprehensive credit risk assessment of a ₦271.6M microfinance loan portfolio using SQL and Power BI**
+
+[![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)](https://www.postgresql.org/)
+[![BI](https://img.shields.io/badge/BI-Power%20BI-yellow)](https://powerbi.microsoft.com/)
+[![Status](https://img.shields.io/badge/Status-Complete-success)]()
+
+---
+
+## 📊 Project Overview
+
+Analyzed 24 months of loan performance data from a Nigerian Microfinance Bank to identify risk patterns, quantify portfolio health, and provide data-driven strategic recommendations.
+
+**Portfolio Scope:** 3,922 loans | ₦271.6M total value | 7 geographic regions | 24-month period
+
+---
+
+## 🎯 Key Findings
+
+### 1️⃣ The Repeat Borrower Effect (4.2x Risk Reduction)
+- **First-time borrowers:** 22.86% default rate
+- **Fifth-cycle borrowers:** 3.16% default rate  
+- **Business Impact:** Customer retention is a risk mitigation strategy worth 4.2x lower defaults
+
+### 2️⃣ Geographic Risk Concentration
+- **North East region:** 23.77% default (HIGHEST RISK)
+- **South South region:** 12.19% default (LOWEST RISK)
+- **Strategic Action:** Exit North East market → Save ₦2M annually
+
+### 3️⃣ Portfolio Quality Deterioration
+- **Feb 2025 cohort:** 18.18% default (newest loans underperforming)
+- **Jan 2024 cohort:** 11.98% default (older loans performing better)
+- **Urgent Action:** Immediate underwriting standards review required
+
+### 4️⃣ Business Type Risk Variation
+- **Farmers:** 20.0% default (seasonal cash flow issues)
+- **Transport operators:** 12.68% default (stable daily income)
+- **Recommendation:** Harvest-linked repayment for farmers
+
+### 5️⃣ Operational Capacity Crisis
+- **Officer OFF041:** Managing 681 loans vs 89 capacity (765% utilization!)
+- **Action:** Hire 24 loan officers to normalize capacity
+
+---
+
+## 💰 Expected Financial Impact (12 Months)
+
+| Metric | Current | Target | Improvement |
+|--------|---------|--------|-------------|
+| **Default Rate** | 14.6% | 11.8% | -2.8pp |
+| **Collection Rate** | 93.5% | 95%+ | +1.5pp |
+| **PAR 90** | 13.9% | 8.0% | -5.9pp |
+| **Annual Profit** | Baseline | +₦8-10M | +3-4% |
+
+**3-Year NPV:** ₦12-15M (at 10% discount rate)
+
+---
+
+## 🛠️ Technologies Used
+
+- **Database:** PostgreSQL 
+- **Analysis:** SQL (window functions, CTEs, filtered aggregations)
+- **Visualization:** Power BI (DAX measures, interactive dashboards)
+- **Documentation:** Notion
+
+---
+
+## 📁 Repository Structure
+
+```
+nigerian-mfi-portfolio-analysis/
+│
+├── README.md                   # You are here
+├── data/
+│   ├── schema.sql             # Database table creation
+│   └── data_dictionary.md     # Field definitions
+├── sql/
+│   ├── 01_data_setup.sql
+│   ├── 02_portfolio_health.sql
+│   ├── 03_geographic_analysis.sql
+│   ├── 04_borrower_segmentation.sql
+│   ├── 05_vintage_analysis.sql
+│   └── 06_operational_performance.sql
+├── reports/
+│   ├── Executive_Summary.pdf
+│   └── Full_Analytical_Report.pdf
+├── dashboard/
+│   └── screenshots/
+│       ├── page1_portfolio_health.png
+│       ├── page2_strategic_risk.png
+│       └── page3_operational_performance.png
+└── documentation/
+    ├── methodology.md
+    └── recommendations.md
+```
+
+---
+
+## 🚀 Quick Start
+
+```bash
+# Clone repository
+git clone https://github.com/[your-username]/nigerian-mfi-portfolio-analysis.git
+
+# Create PostgreSQL database
+createdb nigerian_mfi
+
+# Load schema
+psql -d nigerian_mfi -f data/schema.sql
+
+# Run analysis queries
+psql -d nigerian_mfi -f sql/02_portfolio_health.sql
+```
+
+---
+
+## 📈 Strategic Recommendations
+
+### Immediate (0-3 Months)
+1. **Exit North East Market** → Save ₦2M annually
+2. **Audit Recent Vintages** → Identify quality erosion causes
+
+### Short-Term (3-6 Months)
+3. **Hire 24 Loan Officers** → Fix capacity crisis  
+4. **Implement Risk-Based Pricing** → North: 3.0-3.5%, South: 2.5-2.8%
+5. **Customer Retention Program** → Leverage 4.2x advantage
+
+### Medium-Term (6-12 Months)
+6. **Portfolio Rebalancing** → Shift from 77% to 85% South
+7. **Seasonal Underwriting** → Tighten Q3 standards by 15%
+8. **Loan Amount Caps** → Prevent over-leverage at Cycle 6+
+
+---
+
+## 🎓 Key Learnings
+
+**Technical Skills Demonstrated:**
+- ✅ SQL window functions, CTEs, filtered aggregations
+- ✅ DAX measures for Power BI analytics
+- ✅ Portfolio at Risk (PAR) calculations
+- ✅ Cohort/vintage analysis
+- ✅ Statistical segmentation
+
+**Business Insights:**
+- ✅ Quantified trust impact (4.2x risk reduction)
+- ✅ Geographic risk is 8x more important than officer skill
+- ✅ Portfolio lifecycle effects on PAR metrics
+- ✅ Operational capacity analysis
+
+---
+
+## 📧 Contact
+
+**Author:** [Your Name]  
+**LinkedIn:** [Your LinkedIn]  
+**Email:** [Your Email]
+
+---
+
+## 📜 License
+
+MIT License - see LICENSE file
+
+---
+
+**⭐ If this analysis was helpful, please star the repository!**
+
+*Last Updated: February 2026*

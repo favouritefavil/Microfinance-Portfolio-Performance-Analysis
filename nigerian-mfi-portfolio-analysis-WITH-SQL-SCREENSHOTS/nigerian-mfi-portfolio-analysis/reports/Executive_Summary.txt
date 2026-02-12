@@ -1,0 +1,190 @@
+NIGERIAN MICROFINANCE PORTFOLIO ANALYSIS
+Executive Summary
+
+Date: February 8, 2026
+Analyst: [Your Name]
+Portfolio Size: ₦271.6M | 3,922 Loans | 24-Month Analysis Period
+
+═══════════════════════════════════════════════════════════════════
+
+EXECUTIVE OVERVIEW
+
+The ₦271.6M loan portfolio demonstrates strong collection performance (93.5%) but faces elevated default risk (14.6%) driven by geographic concentration and customer selection. Analysis reveals clear patterns: repeat borrowers show 4.2x lower default rates than first-time customers, and Southern regions outperform Northern regions 2:1. Strategic reallocation and operational improvements can reduce defaults to 11.8% and increase annual profit by ₦8-10M.
+
+═══════════════════════════════════════════════════════════════════
+
+KEY FINDINGS
+
+PORTFOLIO HEALTH
+• Total Loans: 3,922 across 7 regions
+• Portfolio Value: ₦271.6M disbursed
+• Outstanding Balance: ₦17.7M (6.5% of total - mature portfolio)
+• Default Rate: 14.6% (above 10% target)
+• Collection Rate: 93.5% (strong performance)
+• PAR 90: 13.9% (concentrated in legacy defaults)
+
+CRITICAL RISK ZONES IDENTIFIED
+
+1. GEOGRAPHIC CONCENTRATION
+   North East Region: 23.77% default rate (2x portfolio average)
+   • 122 loans, ₦8.5M exposure
+   • Lowest collection rate: 89.46%
+   • Security/infrastructure challenges
+
+   Southern Regions: 12-13% default rate (performing)
+   • 77% of current portfolio
+   • Strongest collection: South South (93.79%)
+
+2. CUSTOMER BEHAVIOR PATTERN
+   First-time borrowers: 22.86% default rate
+   Repeat borrowers (Cycle 5): 3.16% default rate
+   • 4.2x risk reduction through relationship lending
+   • Validates trust-based microfinance model
+   
+3. BUSINESS TYPE RISK
+   Farmers: 20.0% default (seasonal cash flow volatility)
+   Transport: 12.68% default (stable income, lowest risk)
+   • 58% risk differential by sector
+
+4. PORTFOLIO QUALITY DETERIORATION
+   Recent vintages underperforming historical cohorts
+   • Feb 2025: 18.18% default (worst cohort)
+   • Aug 2024: 17.49% default
+   • Indicates underwriting standard erosion
+
+5. OPERATIONAL CAPACITY CRISIS
+   Officer OFF041: 765% capacity utilization (681 loans vs 89 capacity)
+   • Geographic mismatch: 23% portfolio in high-risk North (should be <15%)
+   • Staffing shortage: Need 24 additional officers
+
+═══════════════════════════════════════════════════════════════════
+
+STRATEGIC RECOMMENDATIONS
+
+IMMEDIATE ACTIONS (0-3 Months)
+
+1. EXIT NORTH EAST MARKET
+   • Close branch, transfer performing loans
+   • Expected write-off: ₦1.7M (one-time)
+   • Annual savings: ₦2M
+   • Redeploy capital to Southern regions
+
+2. AUDIT RECENT VINTAGES
+   • Review all Feb 2025 loans (18.18% default)
+   • Identify underwriting gaps
+   • Implement corrective measures
+
+SHORT-TERM INITIATIVES (3-6 Months)
+
+3. HIRE 24 LOAN OFFICERS
+   • South East: 6 officers (urgent - address 765% utilization)
+   • Lagos: 7 officers (support growth)
+   • South South/West: 9 officers (expansion)
+   • North Central: 2 officers (stabilization)
+
+4. IMPLEMENT RISK-BASED PRICING
+   • North regions: 3.0-3.5% monthly (risk premium)
+   • South regions: 2.5-2.8% monthly (competitive rates)
+   • Farmers: +0.5% seasonal risk premium
+
+5. CUSTOMER RETENTION PROGRAM
+   • Fast-track approval for Cycle 3+ customers
+   • Preferential rates for proven borrowers
+   • Automated renewals for Cycle 5+ (3.16% default)
+
+MEDIUM-TERM STRATEGY (6-12 Months)
+
+6. PORTFOLIO REBALANCING
+   Current: 23% North, 77% South
+   Target: 15% North, 85% South
+   • South South: 15% → 20%
+   • South West: 18% → 23%
+   • Lagos: 27% → 30%
+
+7. SEASONAL UNDERWRITING ADJUSTMENTS
+   • Q3 lending: Tighten standards by 15% (historical weakness)
+   • Farmers: Harvest-linked repayment schedules
+   • Enhanced income verification for agricultural loans
+
+8. LOAN AMOUNT CAPS BY CYCLE
+   • Cycle 1: Maximum ₦75,000
+   • Cycles 2-5: Progressive increases to ₦150,000
+   • Cycle 6+: Cap at ₦125,000 (prevent over-leverage)
+
+═══════════════════════════════════════════════════════════════════
+
+EXPECTED IMPACT (12-Month Horizon)
+
+Financial Outcomes:
+• Default Rate: 14.6% → 11.8% (-2.8pp)
+• Collection Rate: 93.5% → 95%+ (+1.5pp)
+• PAR 90: 13.9% → 8% (-5.9pp)
+• Annual Profit Increase: ₦8-10M
+
+Operational Improvements:
+• Officer capacity utilization: 2335% total → 100-150% per officer
+• Portfolio quality score: Moderate → Good
+• Geographic risk concentration: Reduced by 35%
+
+Customer Impact:
+• Repeat customer base: Expand by 25%
+• Average loan cycle: Increase from 2.1 → 2.8
+• Customer retention rate: Improve by 15%
+
+═══════════════════════════════════════════════════════════════════
+
+IMPLEMENTATION ROADMAP
+
+Month 1-3:
+✓ Exit North East market
+✓ Begin hiring process (24 officers)
+✓ Audit Feb 2025 vintage
+✓ Implement risk-based pricing
+
+Month 4-6:
+✓ Complete officer onboarding
+✓ Launch customer retention program
+✓ Introduce seasonal underwriting
+✓ Deploy loan amount caps
+
+Month 7-12:
+✓ Portfolio rebalancing to 85% South
+✓ Quarterly performance reviews
+✓ Continuous optimization
+✓ Monitor vintage performance trends
+
+═══════════════════════════════════════════════════════════════════
+
+RISK MITIGATION
+
+Implementation Risks:
+• North East exit may face regulatory scrutiny
+  → Mitigation: Engage regulators early, provide customer transition support
+
+• Officer hiring timeline (24 hires in 6 months)
+  → Mitigation: Partner with recruitment agencies, offer competitive packages
+
+• Customer pushback on risk-based pricing
+  → Mitigation: Grandfather existing customers, phase in over 3 months
+
+Portfolio Risks:
+• Further quality deterioration in Q1 2025 cohorts
+  → Mitigation: Monthly vintage monitoring, immediate corrective action
+
+═══════════════════════════════════════════════════════════════════
+
+CONCLUSION
+
+The portfolio exhibits strong operational fundamentals (93.5% collection) undermined by strategic allocation errors. The path forward is clear: exit underperforming markets, expand in proven geographies, and leverage the 4.2x risk advantage of repeat customers. This data-driven reallocation will reduce defaults by 2.8 percentage points and generate ₦8-10M in additional annual profit while maintaining responsible lending standards.
+
+The microfinance relationship model works—we need to deploy it where conditions allow it to succeed.
+
+═══════════════════════════════════════════════════════════════════
+
+APPENDICES AVAILABLE
+• Full Analytical Report (5 pages)
+• Interactive Power BI Dashboard (3 pages)
+• SQL Analysis Scripts
+• Detailed Financial Projections
+
+Contact: [Your Email] | [Your Phone]
