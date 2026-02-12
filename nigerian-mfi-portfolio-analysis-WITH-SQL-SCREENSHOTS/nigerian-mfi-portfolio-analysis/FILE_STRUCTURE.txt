@@ -1,9 +1,7 @@
 nigerian-mfi-portfolio-analysis/
 │
 ├── 📄 README.md (5.9KB) ⭐ START HERE
-├── 📄 LICENSE (MIT License)
-├── 📄 .gitignore (Python, OS, IDE exclusions)
-│
+|
 ├── 📁 data/
 │   ├── schema.sql (Database creation script)
 │   └── data_dictionary.md (Field definitions)
