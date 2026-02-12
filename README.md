@@ -18,6 +18,7 @@ Analyzed 14 months of loan performance data from a Nigerian Microfinance Bank to
 
 ## 🎯 Key Findings
 
+[You can view the SQL data prepartion/validation and analysis findings here](https://github.com/favouritefavil/Microfinance-Portfolio-Performance-Analysis/tree/main/nigerian-mfi-portfolio-analysis-WITH-SQL-SCREENSHOTS/nigerian-mfi-portfolio-analysis)
 ### 1️⃣ The Repeat Borrower Effect (4.2x Risk Reduction)
 - **First-time borrowers:** 22.86% default rate
 - **Fifth-cycle borrowers:** 3.16% default rate  
