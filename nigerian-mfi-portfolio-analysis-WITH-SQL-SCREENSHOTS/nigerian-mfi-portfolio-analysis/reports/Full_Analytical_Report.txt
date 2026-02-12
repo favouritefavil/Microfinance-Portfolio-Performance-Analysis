@@ -7,7 +7,7 @@ REPORT DETAILS
 
 Prepared by: Chegwe Favour, Financial Analyst
 Date: February 8, 2026
-Analysis Period: January 2024 - February 2026 (24 months)
+Analysis Period: January 2024 - February 2025 (14 months)
 Portfolio Scope: 3,922 loans, ₦271.6M total disbursed
 Data Source: PostgreSQL database, verified against core banking system
 Methodology: SQL-based analysis, Power BI visualization, statistical segmentation
