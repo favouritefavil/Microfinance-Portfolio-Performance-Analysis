@@ -10,9 +10,9 @@
 
 ## 📊 Project Overview
 
-Analyzed 24 months of loan performance data from a Nigerian Microfinance Bank to identify risk patterns, quantify portfolio health, and provide data-driven strategic recommendations.
+Analyzed 14 months of loan performance data from a Nigerian Microfinance Bank to identify risk patterns, quantify portfolio health, and provide data-driven strategic recommendations.
 
-**Portfolio Scope:** 3,922 loans | ₦271.6M total value | 7 geographic regions | 24-month period
+**Portfolio Scope:** 3,922 loans | ₦271.6M total value | 7 geographic regions | 14-month period
 
 ---
 
