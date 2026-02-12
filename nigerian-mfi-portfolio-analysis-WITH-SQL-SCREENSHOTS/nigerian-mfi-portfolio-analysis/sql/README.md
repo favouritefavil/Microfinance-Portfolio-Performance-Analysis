@@ -517,10 +517,9 @@ South East officer at 765% utilization
 
 ## 📧 Questions?
 
-**Author:** [Your Name]  
-**GitHub:** [Your GitHub Profile]  
-**LinkedIn:** [Your LinkedIn]
-
+**Author:** Chegwe Favour  
+**GitHub:** [favouritefavil](https://github.com/favouritefavil)
+**LinkedIn:** [favour chegwe](www.linkedin.com/in/favour-chegwe)
 ---
 
 *Last Updated: February 2026*
