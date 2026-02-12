@@ -9,7 +9,11 @@ Portfolio Size: ₦271.6M | 3,922 Loans | 24-Month Analysis Period
 
 EXECUTIVE OVERVIEW
 
-The ₦271.6M loan portfolio demonstrates strong collection performance (93.5%) but faces elevated default risk (14.6%) driven by geographic concentration and customer selection. Analysis reveals clear patterns: repeat borrowers show 4.2x lower default rates than first-time customers, and Southern regions outperform Northern regions 2:1. Strategic reallocation and operational improvements can reduce defaults to 11.8% and increase annual profit by ₦8-10M.
+The ₦271.6M loan portfolio demonstrates strong collection performance (93.5%) but 
+faces elevated default risk (14.6%) driven by geographic concentration and customer selection. 
+Analysis reveals clear patterns: repeat borrowers show 4.2x lower default rates than first-time
+customers, and Southern regions outperform Northern regions 2:1. Strategic reallocation and 
+operational improvements can reduce defaults to 11.8% and increase annual profit by ₦8-10M.
 
 ═══════════════════════════════════════════════════════════════════
 
@@ -175,7 +179,11 @@ Portfolio Risks:
 
 CONCLUSION
 
-The portfolio exhibits strong operational fundamentals (93.5% collection) undermined by strategic allocation errors. The path forward is clear: exit underperforming markets, expand in proven geographies, and leverage the 4.2x risk advantage of repeat customers. This data-driven reallocation will reduce defaults by 2.8 percentage points and generate ₦8-10M in additional annual profit while maintaining responsible lending standards.
+The portfolio exhibits strong operational fundamentals (93.5% collection) undermined by 
+strategic allocation errors. The path forward is clear: exit underperforming markets, 
+expand in proven geographies, and leverage the 4.2x risk advantage of repeat customers. 
+This data-driven reallocation will reduce defaults by 2.8 percentage points and generate ₦8-10M 
+in additional annual profit while maintaining responsible lending standards.
 
 The microfinance relationship model works—we need to deploy it where conditions allow it to succeed.
 
