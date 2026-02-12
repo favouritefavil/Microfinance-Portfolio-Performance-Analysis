@@ -6,13 +6,16 @@ nigerian-mfi-portfolio-analysis/
 │   ├── schema.sql (Database creation script)
 │   └── data_dictionary.md (Field definitions)
 │
-├── 📁 sql/ (6 analysis scripts)
-│   ├── 01_data_setup.sql (View creation)
-│   ├── 02_portfolio_health.sql (PAR metrics)
-│   ├── 03_geographic_analysis.sql (Regional risk)
-│   ├── 04_borrower_segmentation.sql (Loan cycles & business types)
-│   ├── 05_vintage_analysis.sql (Time cohorts)
-│   └── 06_operational_performance.sql (Officer analysis)
+├──├── README.md
+├── screenshots/           # Query output images
+├── 01_data_exploration.sql
+├── 02_data_quality_checks.sql
+├── 03_data_setup.sql
+├── 04_portfolio_health.sql
+├── 05_geographic_analysis.sql
+├── 06_borrower_segmentation.sql
+├── 07_vintage_analysis.sql
+└── 08_operational_performance.sql
 │
 ├── 📁 reports/ (Your written deliverables)
 │   ├── Executive_Summary.txt (1-page board briefing)
@@ -28,5 +31,5 @@ nigerian-mfi-portfolio-analysis/
     ├── methodology.md (Analysis approach)
     └── recommendations.md (Strategic actions)
 
-TOTAL FILES: 18 files across 6 folders
+TOTAL FILES: 20 files across 6 folders
 ALL FOLDERS POPULATED ✅
