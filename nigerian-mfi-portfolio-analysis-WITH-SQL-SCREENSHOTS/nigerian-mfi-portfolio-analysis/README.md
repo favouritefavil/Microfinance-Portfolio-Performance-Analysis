@@ -18,6 +18,7 @@ Analyzed 14 months of loan performance data from a Nigerian Microfinance Bank to
 
 ## 🎯 Key Findings
 
+[You can view the SQL data prepartion/validation and analysis findings here](https://github.com/favouritefavil/Microfinance-Portfolio-Performance-Analysis/tree/main/nigerian-mfi-portfolio-analysis-WITH-SQL-SCREENSHOTS/nigerian-mfi-portfolio-analysis)
 ### 1️⃣ The Repeat Borrower Effect (4.2x Risk Reduction)
 - **First-time borrowers:** 22.86% default rate
 - **Fifth-cycle borrowers:** 3.16% default rate  
@@ -41,6 +42,8 @@ Analyzed 14 months of loan performance data from a Nigerian Microfinance Bank to
 ### 5️⃣ Operational Capacity Crisis
 - **Officer OFF041:** Managing 681 loans vs 89 capacity (765% utilization!)
 - **Action:** Hire 24 loan officers to normalize capacity
+- 
+[You can View the 3page Dashboard here](https://github.com/favouritefavil/Microfinance-Portfolio-Performance-Analysis/tree/main/nigerian-mfi-portfolio-analysis-WITH-SQL-SCREENSHOTS/nigerian-mfi-portfolio-analysis/dashboard)
 
 ---
 
