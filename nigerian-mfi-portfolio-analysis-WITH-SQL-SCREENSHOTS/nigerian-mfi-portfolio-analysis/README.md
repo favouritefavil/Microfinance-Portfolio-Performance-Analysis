@@ -152,17 +152,10 @@ psql -d nigerian_mfi -f sql/02_portfolio_health.sql
 
 ## 📧 Contact
 
-**Author:** [Your Name]  
-**LinkedIn:** [Your LinkedIn]  
-**Email:** [Your Email]
+**Author:** Chegwe Favour 
+**LinkedIn:** [Favour Chegwe](www.linkedin.com/in/favour-chegwe)  
+**Email:** favourchegwe@gmail.com
 
----
-
-## 📜 License
-
-MIT License - see LICENSE file
-
----
 
 **⭐ If this analysis was helpful, please star the repository!**
 
