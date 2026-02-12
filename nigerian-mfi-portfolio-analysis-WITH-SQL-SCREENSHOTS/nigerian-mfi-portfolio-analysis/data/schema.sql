@@ -25,3 +25,4 @@ CREATE TABLE loan(
 	collection_efficiency_percent NUMERIC(5,2),
 	officer_porfolio_size INTEGER
 );
+
