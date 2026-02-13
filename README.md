@@ -42,7 +42,7 @@ Analyzed 14 months of loan performance data from a Nigerian Microfinance Bank to
 ### 5️⃣ Operational Capacity Crisis
 - **Officer OFF041:** Managing 681 loans vs 89 capacity (765% utilization!)
 - **Action:** Hire 24 loan officers to normalize capacity
-- 
+
 [You can View the 3page Dashboard here](https://github.com/favouritefavil/Microfinance-Portfolio-Performance-Analysis/tree/main/nigerian-mfi-portfolio-analysis-WITH-SQL-SCREENSHOTS/nigerian-mfi-portfolio-analysis/dashboard)
 
 ---
@@ -57,6 +57,7 @@ Analyzed 14 months of loan performance data from a Nigerian Microfinance Bank to
 | **Annual Profit** | Baseline | +₦8-10M | +3-4% |
 
 **3-Year NPV:** ₦12-15M (at 10% discount rate)
+[view the Powerpoint Presentation slide](https://github.com/favouritefavil/Microfinance-Portfolio-Performance-Analysis/tree/main/nigerian-mfi-portfolio-analysis-WITH-SQL-SCREENSHOTS/nigerian-mfi-portfolio-analysis/reports)
 
 ---
 
