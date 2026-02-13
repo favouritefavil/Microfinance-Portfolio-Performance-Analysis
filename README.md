@@ -88,6 +88,7 @@ nigerian-mfi-portfolio-analysis/
 ├── reports/
 │   ├── Executive_Summary.pdf
 │   └── Full_Analytical_Report.pdf
+├── └── PowerPoint_Presentation_slide
 ├── dashboard/
 │   └── screenshots/
 │       ├── page1_portfolio_health.png
