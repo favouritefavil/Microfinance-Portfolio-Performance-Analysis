@@ -57,7 +57,7 @@ Analyzed 14 months of loan performance data from a Nigerian Microfinance Bank to
 | **Annual Profit** | Baseline | +₦8-10M | +3-4% |
 
 **3-Year NPV:** ₦12-15M (at 10% discount rate)
-
+[view the Powerpoint Presentation slide](https://github.com/favouritefavil/Microfinance-Portfolio-Performance-Analysis/tree/main/nigerian-mfi-portfolio-analysis-WITH-SQL-SCREENSHOTS/nigerian-mfi-portfolio-analysis/reports)
 ---
 
 ## 🛠️ Technologies Used
