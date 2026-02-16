@@ -17,9 +17,10 @@ nigerian-mfi-portfolio-analysis/
 ├── 07_vintage_analysis.sql
 └── 08_operational_performance.sql
 │
-├── 📁 reports/ (Your written deliverables)
+├── 📁 reports/ 
 │   ├── Executive_Summary.txt (1-page board briefing)
 │   └── Full_Analytical_Report.txt (5-page comprehensive analysis)
+│   └── PowerPoint Presentataion slide.png (13-page comprehensive presentation)
 │
 ├── 📁 dashboard/
 │   └── screenshots/ (3 Power BI dashboard images)
@@ -30,6 +31,3 @@ nigerian-mfi-portfolio-analysis/
 └── 📁 documentation/
     ├── methodology.md (Analysis approach)
     └── recommendations.md (Strategic actions)
-
-TOTAL FILES: 20 files across 6 folders
-ALL FOLDERS POPULATED ✅
