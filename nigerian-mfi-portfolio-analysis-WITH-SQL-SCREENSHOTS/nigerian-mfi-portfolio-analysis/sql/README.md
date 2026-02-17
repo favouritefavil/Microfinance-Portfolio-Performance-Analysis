@@ -59,7 +59,7 @@ psql -d nigerian_mfi -f 08_operational_performance.sql
 **Expected Results:**
 - 3,922 total loans
 - 1,854 unique customers
-- 24-month portfolio (Jan 2024 - Feb 2026)
+- 14-month portfolio (Jan 2024 - Feb 2026)
 - 100% data completeness
 
 ---
