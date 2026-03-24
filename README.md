@@ -70,56 +70,6 @@ Analyzed 14 months of loan performance data from a Nigerian Microfinance Bank to
 
 ---
 
-## 📁 Repository Structure
-
-```
-nigerian-mfi-portfolio-analysis/
-│
-├── README.md                   # You are here
-├── data/
-│   ├── schema.sql             # Database table creation
-│   └── data_dictionary.md     # Field definitions
-├── sql/
-│   ├── 01_data_setup.sql
-│   ├── 02_portfolio_health.sql
-│   ├── 03_geographic_analysis.sql
-│   ├── 04_borrower_segmentation.sql
-│   ├── 05_vintage_analysis.sql
-│   └── 06_operational_performance.sql
-├── reports/
-│   ├── Executive_Summary.pdf
-│   └── Full_Analytical_Report.pdf
-├── └── PowerPoint_Presentation_slide
-├── dashboard/
-│   └── screenshots/
-│       ├── page1_portfolio_health.png
-│       ├── page2_strategic_risk.png
-│       └── page3_operational_performance.png
-└── documentation/
-    ├── methodology.md
-    └── recommendations.md
-```
-
----
-
-## 🚀 Quick Start
-
-```bash
-# Clone repository
-git clone https://github.com/[your-username]/nigerian-mfi-portfolio-analysis.git
-
-# Create PostgreSQL database
-createdb nigerian_mfi
-
-# Load schema
-psql -d nigerian_mfi -f data/schema.sql
-
-# Run analysis queries
-psql -d nigerian_mfi -f sql/02_portfolio_health.sql
-```
-
----
-
 ## 📈 Strategic Recommendations
 
 ### Immediate (0-3 Months)
