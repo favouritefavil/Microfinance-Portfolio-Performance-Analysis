@@ -22,21 +22,6 @@ sql/
 
 ---
 
-## 🚀 Quick Start
-
-```bash
-# Run scripts in order
-psql -d nigerian_mfi -f 01_data_exploration.sql
-psql -d nigerian_mfi -f 02_data_quality_checks.sql
-psql -d nigerian_mfi -f 03_data_setup.sql
-psql -d nigerian_mfi -f 04_portfolio_health.sql
-psql -d nigerian_mfi -f 05_geographic_analysis.sql
-psql -d nigerian_mfi -f 06_borrower_segmentation.sql
-psql -d nigerian_mfi -f 07_vintage_analysis.sql
-psql -d nigerian_mfi -f 08_operational_performance.sql
-```
-
----
 
 ## 📊 Analysis Workflow
 
@@ -483,44 +468,8 @@ South East officer at 765% utilization
 
 ---
 
-## 🛠️ Technical Notes
 
-### SQL Techniques Used
-- ✅ Window functions for cohort analysis
-- ✅ Filtered aggregations (FILTER WHERE)
-- ✅ CTEs for complex queries
-- ✅ Case statements for categorical derivation
-- ✅ Date functions for vintage analysis
-- ✅ NULLIF for division safety
 
-### Database Requirements
-- PostgreSQL 14+
-- ~1MB data size
-- 3,922 rows × 21 columns
-- 6 derived metrics in view
 
-### Performance Notes
-- All queries execute <100ms
-- View creation <50ms
-- Indexes on: customer_id, region, disbursement_date, loan_status
-
+**Author:** Favour Chegwe - Data Analyst
 ---
-
-## 📚 Additional Resources
-
-- **[Data Dictionary](../data/data_dictionary.md)** - Field definitions
-- **[Methodology](../documentation/methodology.md)** - Analysis approach
-- **[Recommendations](../documentation/recommendations.md)** - Implementation roadmap
-- **[Dashboard](../dashboard/)** - Power BI visualizations
-
----
-
-## 📧 Questions?
-
-**Author:** [Your Name]  
-**GitHub:** [Your GitHub Profile]  
-**LinkedIn:** [Your LinkedIn]
-
----
-
-*Last Updated: February 2026*
