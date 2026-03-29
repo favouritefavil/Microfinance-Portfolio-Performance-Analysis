@@ -183,7 +183,7 @@ Four interactive filters: Disbursement Date, Loan Status, Region, and Business T
 ## Dashboard Preview
 
 ### Page 1 — Portfolio Health
-<img width="1337" height="848" alt="Dashboard page 1_ Portfolio Health" src="https://github.com/user-attachments/assets/536e97ee-885a-4454-b6a1-c3eae16c11d3" />
+<img width="1315" height="762" alt="Dashboard page 1" src="https://github.com/user-attachments/assets/1a5dfe93-44af-4d7a-a56a-e720ba3659b4" />
 
 ---
 
@@ -201,7 +201,7 @@ Four interactive filters: Disbursement Date, Loan Status, Region, and Business T
 
 ## Key Insights
 
-**1. Strong collection rate and high default rate can coexist — and do here.**  
+**1. Strong collection rate and high default rate can coexist and do here.**  
 The bank collects 93.5% of what it is owed. But 14.6% of loans have defaulted entirely. These facts are not contradictory: the performing loans are well managed, while the problem is concentrated in specific segments that were not well-selected at origination.
 
 **2. Geography is the single strongest predictor of default risk.**  
