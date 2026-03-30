@@ -142,7 +142,7 @@ Four interactive filters: Disbursement Date, Loan Status, Region, and Business T
 | KPI cards | Headline metrics: total loans, customers, portfolio value, outstanding, default rate |
 | PAR 30 / 60 / 90 indicators | How much of the outstanding balance is at risk by severity level |
 | Total Loans by Risk Category (bar) | Spread across Current, Low Risk, Medium Risk, and High Risk tiers |
-| Portfolio Collection Rate (gauge) | 94% collected — performance against the industry benchmark |
+| Portfolio Collection Rate (gauge) | 94% collected performance against the industry benchmark |
 | Total Loans by Loan Status (donut) | 2,979 current, 571 default, 372 overdue |
 | Outstanding Balance Breakdown (table) | 81.9% of outstanding balance sits in defaulted loans |
 | Key Metrics Summary | Qualitative scorecard with strengths, concerns, and portfolio composition |
