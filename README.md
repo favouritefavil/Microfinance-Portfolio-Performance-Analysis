@@ -176,7 +176,7 @@ Four interactive filters: Disbursement Date, Loan Status, Region, and Business T
 | Officer Capacity vs Default Rate (scatter) | Visual relationship between officer overload and credit quality |
 | Strategic Action Plan | Full implementation roadmap with expected financial outcomes |
 
-**Key takeaway:** Officer OFF041 is managing 681 loans against a system capacity of 89, a 765% utilisation rate. This is a structural capacity failure that directly degrades loan quality, not a performance issue. The strategic plan projects that addressing capacity mismatches and exiting the North East will reduce the default rate to 11.8% and generate ₦8–10M in additional annual profit.
+**Key takeaway:** Officer OFF041 is managing 681 loans against a system capacity of 89—a 765% utilisation rate. This represents an operational bottleneck that directly degrades credit quality, not an individual underperformance issue. Under a simulated scenario model, resolving capacity mismatches and reallocating capital away from the North East is projected to reduce the portfolio default rate toward 11.8% and unlock an estimated ₦8–10M in annual operational upside, subject to execution..
 
 ---
 
@@ -270,7 +270,8 @@ Three findings carry the most direct strategic weight. First, geography is the d
 
 The recommended strategy, exit the North East, hire 24 officers, implement risk-based pricing, and shift capital toward Southern regions, is projected to reduce the default rate from 14.6% to 11.8% and generate ₦8–10M in additional annual profit within 12 months, with a 3-year NPV of ₦12–15M.
 
-> *A 14.6% default rate and a 93.5% collection rate in the same portfolio tells you two things: the bank knows how to collect, it needs to get better at choosing who to lend to.*
+> *Scenario Modeling & Strategic Projections (Subject to Implementation):
+An analytical scenario model was constructed to evaluate the potential impact of the strategic recommendations—specifically exiting the North East market, onboarding 24 field officers to eliminate capacity deficits, enforcing risk-based pricing, and rotating capital into top-performing Southern regions. Based on these modeled inputs, the portfolio default rate is projected to decline from 14.6% to approximately 11.8%, with an estimated annual profit improvement of ₦8–10M (3-year modeled NPV: ₦12–15M). Note: These figures represent modeled scenario projections to guide management capital allocation, not observed post-implementation results.*
 
 ---
 
